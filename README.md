@@ -5,7 +5,7 @@ This Ping pong Game is Made by Using Python 3.7.1 &amp; Pygame Modules. Hope you
 Installing The Pygame Module:
 
 <li>Open Terminal/CMD
-<li><h5><b>Type pip install pygame/ pip3 install pygame </h5></b>
+<h5><b><li>Type pip install pygame/ pip3 install pygame </h5></b>
 
 OR
 
@@ -14,7 +14,7 @@ OR
 <b>Example</b>: <mark> pip install -r c://Users/Downloads/Ping-Pong-game/requirements.txt </mark>
 ##
 
-<b>Dont Delete Any Files.. IT MAY CRASH THE GAME!</b>
+<b><font color='red'>Dont Delete Any Files.. IT MAY CRASH THE GAME!</font></b>
 
 <b><h3>Start The Game Using Ping-Pong-game.exe File!</h3></b>
 
