@@ -19,4 +19,3 @@ OR
 <b><h3>Start The Game Using Ping-Pong-game.exe File!</h3></b>
 
 <b><h1>ThankYou!</h1></b>
-<span style="background-color: #FFFF00">Marked text</span>
