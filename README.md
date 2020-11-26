@@ -5,17 +5,17 @@ This Ping pong Game is Made by Using Python 3.7.1 &amp; Pygame Modules. Hope you
 Installing The Pygame Module:
 
 <li>Open Terminal/CMD
-<li>Type pip install pygame/ pip3 install pygame
+<li>Type <h5><b>pip install pygame/ pip3 install pygame </h5></b>
 
 OR
 
-<li>Open Terminal or CMD, then Type <mark>pip install -r <path to the game></mark>
+<li>Open Terminal or CMD, then Type <mark><h5><b>pip install -r <path to the game></h5></b></mark>
   
-<b>Example</b>: <mark> pip install -r c://Users/Downloads/SnakeByRohan/requirements.txt </mark>
+<b>Example</b>: <mark> pip install -r c://Users/Downloads/Ping-Pong-game/requirements.txt </mark>
 ##
 
 <b>Dont Delete Any Files.. IT MAY CRASH THE GAME!</b>
 
-<b>Start The Game Using Snake.exe File!</b>
+<b>Start The Game Using <h3>Ping-Pong-game.exe</h3> File!</b>
 
 <b><h2>ThankYou!</h2></b>
