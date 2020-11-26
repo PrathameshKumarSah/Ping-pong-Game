@@ -14,7 +14,7 @@ OR
 <b>Example</b>: <mark> pip install -r c://Users/Downloads/Ping-Pong-game/requirements.txt </mark>
 ##
 
-<b><font color='red'>Dont Delete Any Files.. IT MAY CRASH THE GAME!</font></b>
+<b style="color:red">Dont Delete Any Files.. IT MAY CRASH THE GAME!</b>
 
 <b><h3>Start The Game Using Ping-Pong-game.exe File!</h3></b>
 
