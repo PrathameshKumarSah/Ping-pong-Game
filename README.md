@@ -7,6 +7,10 @@ Installing The Pygame Module:
 <li>Open Terminal/CMD
 <h5><b><li>Type pip install pygame/ pip3 install pygame </h5></b>
 
+OR
+
+<li>Open Terminal or CMD, then Type pip install -r <path to the game>
+<h5><b>Example: pip install -r c://Users/Downloads/Ping-pong-Game/requirements.txt</h5></b>
 ##
 
 <b style="color:red"><span style="color: green">Dont Delete Any Files.. IT MAY CRASH THE GAME!</span></b>
