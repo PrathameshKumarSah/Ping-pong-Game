@@ -5,7 +5,7 @@ This Ping pong Game is Made by Using Python 3.7.1 &amp; Pygame Modules. Hope you
 Installing The Pygame Module:
 
 <li>Open Terminal/CMD
-<h5><b><li>Type pip install pygame/ pip3 install pygame </h5></b>
+<h5><b><i><li>Type pip install pygame/ pip3 install pygame </i></h5></b>
 
 OR
 
